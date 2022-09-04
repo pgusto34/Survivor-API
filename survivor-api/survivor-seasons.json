@@ -1,0 +1,71 @@
+{
+  "season-1" : {
+    "title" : "Survivor: Borneo",
+    "country" : "Malaysia",
+    "winner" : "Richard Hatch",
+    "img" : "img/borneo.png"
+  },
+
+  "season-2" : {
+    "title" : "Survivor: The Australian Outback",
+    "country" : "Australia",
+    "winner" : "Tina Wesson",
+    "img" : "img/the-australian-outback.png"
+  },
+
+  "season-3" : {
+    "title" : "Survivor: Africa",
+    "country" : "Kenya",
+    "winner" : "Ethan Zohn",
+    "img" : "img/africa.png"
+  },
+
+  "season-4" : {
+    "title" : "Survivor: Marquesas",
+    "country" : "French Polynesia",
+    "winner" : "Vecepia Towery",
+    "img" : "img/marquesas.png"
+  },
+
+  "season-5" : {
+    "title" : "Survivor: Thailand",
+    "country" : "Thailand",
+    "winner" : "Brian Heidik",
+    "img" : "img/thailand.png"
+  },
+
+  "season-6" : {
+    "title" : "Survivor: The Amazon",
+    "country" : "Brazil",
+    "winner" : "Jenna Morasca",
+    "img" : "img/amazon.png"
+  },
+
+  "season-7" : {
+    "title" : "Survivor: Pearl Islands",
+    "country" : "Panama",
+    "winner" : "Sandra Diaz-Twine",
+    "img" : "img/pearl-islands.png"
+  },
+
+  "season-8" : {
+    "title" : "Survivor: All-Stars",
+    "country" : "Panama",
+    "winner" : "Amber Brkich",
+    "img" : "img/all-stars.png"
+  },
+
+  "season-9" : {
+    "title" : "Survivor: Vanuatu - Islands of Fire",
+    "country" : "Vanuatu",
+    "winner" : "Chris Daughtery",
+    "img" : "img/vanuatu.png"
+  },
+
+  "season-10" : {
+    "title" : "Survivor: Palau",
+    "country" : "Palau",
+    "winner" : "Tom Westman",
+    "img" : "img/palau.png"
+  }
+}

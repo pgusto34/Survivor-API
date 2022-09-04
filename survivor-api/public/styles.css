@@ -1,0 +1,33 @@
+/*
+  Parker Gustafson
+  5/18/22
+  Section AJ Tara and Benjamin
+
+  This is the styles.css file that's used in my index.html
+  Survivor Info Page. It includes code for styling the background,
+  the survivor-container, and more!
+*/
+body {
+  background-color: whitesmoke;
+}
+
+header {
+  text-align: center;
+  font-size: x-large;
+}
+
+main {
+  background-color: white;
+}
+
+#survivor-container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40vw;
+}
+
+.error {
+  color: red;
+  font-size: large;
+}

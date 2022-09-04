@@ -1,0 +1,5 @@
+{"Season 1":"Survivor: Borneo", "Season 2":"Survivor: The Australian Outback",
+"Season 3":"Survivor: Africa", "Season 4":"Surivor: Marquesas",
+"Season 5":"Survivor: Thailand", "Season 6":"Survivor: The Amazon",
+"Season 7":"Survivor: Pearl Islands", "Season 8":"Survivor: All-Stars",
+"Season 9":"Survivor: Vanuatu - Islands of Fire", "Season 10":"Survivor: Palau"}

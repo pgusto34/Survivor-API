@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+  Parker Gustafson
+  5/6/22
+  Section AJ Tara and Benjamine
+
+  This is the html for my survivor season info page, my fourth
+  creative project. It includes a title/guide header, a season dropdown, and
+  a submit button.
+-->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Random Meme Generator">
+  <title>Meme Generator</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="index.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Survivor Information Generator</h1>
+    <p>Select a Survivor Season to Learn About!</p>
+  </header>
+  <main>
+    <hr>
+    <form>
+      <label for="season-dropdown">Select a Season</label>
+      <select name="season-dropdown" id="season-dropdown">
+        <option value="none" selected disabled hidden>Select a Season</option>
+      </select>
+      <input type="submit" value="Select Season" id="submit-btn">
+    </form>
+    <div id="survivor-container"></div>
+    <hr>
+  </main>
+</body>
+</html>
